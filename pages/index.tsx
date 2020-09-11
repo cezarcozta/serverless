@@ -32,10 +32,10 @@ export default function Home() {
         width="100%"
         maxW="400px"
       >
-        <Image marginBottom={8} src="/rocketseat.svg" alt="Rocketseat" />
+        <Image src="/envelope-solid.svg" size={75} alignSelf="center" />
 
-        <Text textAlign="center" fontSize="sm" color="gray.400" marginBottom={2}>
-          Assine a newsletter da Rocketseat e receba os melhores conteúdos sobre programação!
+        <Text textAlign="center" fontSize="md" color="gray.400" marginBottom={2}>
+          Assine a fakeNewsLetter e seja melhor amigo do tiozão do zap!
         </Text>
 
         <Input
