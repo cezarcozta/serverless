@@ -1,7 +1,8 @@
 # Serverless
 
 ```bash
-A serverless vercel deploy pratice with nextjs funcitons all subscribers are storaged at mongoDB collection at Atlas Free Cloud.
+A serverless vercel deploy pratice with nextjs funcitons  
+All subscribers e-mails are storaged at mongoDB collection at Atlas Free Cloud.
 ```
 
 ## 🚀 Getting started
